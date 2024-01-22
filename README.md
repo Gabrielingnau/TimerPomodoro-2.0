@@ -6,7 +6,7 @@
 ### Splash screen
 ![Screenshot_1](https://github.com/Gabrielingnau/GitFav/assets/116130802/49f619ff-b140-46df-bb45-abe903168371)
 ### Favorite
-![Screenshot_2](https://github.com/Gabrielingnau/GitFav/assets/116130802/bfed3493-2428-475f-bb14-9b16d4e83bbf)
+![Screenshot_2](https://github.com/Gabrielingnau/TimerPomodoro-2.0/assets/116130802/73e2a3d0-e00c-4374-84ca-4de1cb1751c2)
 
 ## 💻 About:
 
