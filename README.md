@@ -1,6 +1,10 @@
 
 <p align="center">
-  <h4 align="center">TimerPomodoro-2.0</h4>
+  <h4 align="center"><a href="https://main--timerpomodoro-2.netlify.app/">Timer Pomodoro</a></h4>
+</p>
+
+<p align="center">
+  <img width="800" src="./src/assets/responsivo.png">
 </p>
 
 ### Splash screen
