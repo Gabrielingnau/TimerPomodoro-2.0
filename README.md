@@ -1,10 +1,6 @@
 <p align="center">
   <h4 align="center"><a href="https://main--timerpomodoro-2.netlify.app/">Timer Pomodoro</a></h4>
-</p>
-
-<p align="center">
-  <img width="800" src="./src/assets/responsivo.png">
-</p>
+</p><img width="1920" height="1348" alt="Capa" src="https://github.com/user-attachments/assets/8967e296-2be4-47bb-8175-63a59e770f75" />
 
 ### Tela inicial
 ![Screenshot_1](https://github.com/Gabrielingnau/GitFav/assets/116130802/49f619ff-b140-46df-bb45-abe903168371)
