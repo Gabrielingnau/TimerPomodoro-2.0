@@ -1,4 +1,3 @@
-
 <p align="center">
   <h4 align="center"><a href="https://main--timerpomodoro-2.netlify.app/">Timer Pomodoro</a></h4>
 </p>
@@ -7,16 +6,16 @@
   <img width="800" src="./src/assets/responsivo.png">
 </p>
 
-### Splash screen
+### Tela inicial
 ![Screenshot_1](https://github.com/Gabrielingnau/GitFav/assets/116130802/49f619ff-b140-46df-bb45-abe903168371)
-### Favorite
+### Favoritos
 ![Screenshot_2](https://github.com/Gabrielingnau/TimerPomodoro-2.0/assets/116130802/73e2a3d0-e00c-4374-84ca-4de1cb1751c2)
 
-## 💻 About:
+## 💻 Sobre:
 
-The idea is to create a pomodoro-type watch.
+A ideia é criar um relógio no estilo pomodoro.
 
-In this application, the following topics were addressed:
+Neste aplicativo, foram abordados os seguintes tópicos:
 
 - [ReactJs](https://reactjs.org)
 - [Typescript](https://www.typescriptlang.org/)
@@ -27,18 +26,18 @@ In this application, the following topics were addressed:
 
 ---
 
-## Features
+## Funcionalidades
 
-- [x] A structured project, with a good organization of folders, division of components on the front-end, etc.
-- [x] A README.md file with the specifications on how to run the project in a dev environment.
-- [x] Meaningful names for functions and variables: Working a bit with Clean Code concepts.
-- [x] Listing of products (coffees) available for purchase
-- [x] Add a specific amount of items to the cart
-- [x] Increase or remove the amount of items in the cart
-- [x] Form for the user to fill in their address
-- [x] Display the total items in the cart in the Header
-- [x] Display the total amount of the sum of items in the cart multiplied by the value
-- [x] Meets the model proposed in Figma and contains elements indicative of action and state.
+- [x] Projeto estruturado, com boa organização de pastas, divisão de componentes no front-end, etc.
+- [x] Um arquivo README.md com as especificações de como executar o projeto em ambiente de desenvolvimento.
+- [x] Nomes significativos para funções e variáveis: trabalhando um pouco com conceitos de Clean Code.
+- [x] Listagem de produtos (cafés) disponíveis para compra
+- [x] Adicionar uma quantidade específica de itens ao carrinho
+- [x] Aumentar ou remover a quantidade de itens no carrinho
+- [x] Formulário para o usuário preencher seu endereço
+- [x] Exibir o total de itens no carrinho no cabeçalho
+- [x] Exibir o valor total da soma dos itens no carrinho multiplicados pelo preço
+- [x] Segue o modelo proposto no Figma e contém elementos indicativos de ação e estado.
 - [x] Estados
 - [x] ContextAPI
 - [x] LocalStorage
@@ -51,37 +50,35 @@ In this application, the following topics were addressed:
 
 ## 🎨 Layout
 
-The layout of the application is available in Figma:
+O layout da aplicação está disponível no Figma:
 
 <a href="https://www.figma.com/file/w3xfRl4rdsEZpOsTULdCBh/Ignite-Timer-(Community)?node-id=0%3A1&mode=dev">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="Feito por tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
+---
 
-## 🚀 How to run the project.
+## 🚀 Como executar o projeto
 
-💡The Backend must be running on your machine in order for the frontend to be re-addressed.
+💡 O Backend precisa estar em execução na sua máquina para que o frontend funcione corretamente.
 
-### Prerequisites
+### Pré-requisitos
 
-Before you begin, you will need to have the following tool installed on your machine:
+Antes de começar, você precisará ter a seguinte ferramenta instalada em sua máquina:
 [VSCode](https://code.visualstudio.com/)
 
-### 💻 Running the FrontEnd
+### 💻 Executando o FrontEnd
 
 ```bash
 git init
 
 git clone https://github.com/Gabrielingnau/TimerPomodoro-2.0
 
-```
+## 🛠 Tecnologias  
 
-## 🛠 Technologies
+Este projeto foi desenvolvido com as seguintes tecnologias:  
 
-This project was developed with the following technologies:
-
-- HTML
-- CSS
-- Typescript
-- React.js
-- Styles Components
+- **HTML**  
+- **CSS**  
+- **TypeScript**  
+- **React.js**  
